@@ -1,0 +1,7 @@
+.Navbar {
+  background-color: green;
+  display: flex;
+}
+.Navbar h1{
+    color: blue;
+}
