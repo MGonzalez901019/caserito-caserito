@@ -5,7 +5,7 @@ import { AiOutlineShoppingCart } from 'react-icons/ai';
 
 const CartWidget = () => {
   return (
-    <div>
+    <div className='divCart'>
         {/* <img className='CartWidget' src='images/shopping-cart.svg' alt='cartWidget'/> */}
         <AiOutlineShoppingCart className='CartWidget' />
         10
